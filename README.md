@@ -1,10 +1,8 @@
-### Приветствую! Меня зовут Александр С. я разработчик!
+# Приветствую! Меня зовут Александр С. я разработчик!
 
-Не гуру, но с 2022 года освоил Python (надеюсь на должном уровне), JavaScript и другие технологии (Яндекс.Облако, Git, CI/CD, SQL, Bootstrap 5, Docker, Django, CSS, HTML).
-Начал всё это дело с курсов на Степике (балуюсь до сих пор), очень интересно! C конца 2022 года прохожу обучение в Яндекс.Практикум по направлению Python - разработчик (back-end)(Это очень интересно). Это один из самых интересных моментов в моей жизни, на котором я не останавливаюсь, в данный момент я занимаюсь индивидуальной разработкой в среде Python, Django, DRF, JS (крутой язык для фронта).
+Я начал свой путь в разработке с курсов на Степике и с тех пор освоил Python, JavaScript и другие технологии, такие как Яндекс.Облако, Git, CI/CD, SQL, Bootstrap 5, Docker, Django, CSS и HTML. С 2022 года я прохожу обучение в Яндекс.Практикум по направлению Python - разработчик (back-end), и это один из самых интересных моментов в моей жизни.
 
-Стек технологий:
-**JavaScript, React, TypeScript, Python, Django, Django REST Framework, REST API, PostgreSQL, Yandex.Cloud, Bootstrap 4/5, HTML, CSS, git, js, pytest, unittest, tdd, venv, API, json, CI/CD, другие**
+В данный момент я занимаюсь индивидуальной разработкой в среде Python, Django, DRF и JS. Мой стек технологий включает в себя следующие технологии: JavaScript, React, TypeScript, Python, Django, Django REST Framework, REST API, PostgreSQL, Yandex.Cloud, Bootstrap 4/5, HTML, CSS, git, js, pytest, unittest, tdd, venv, API, json, CI/CD и другие.
 
 ## Основной стек технологий
 
@@ -18,3 +16,4 @@
 
 [<img src="./svg/telegram.svg">](https://t.me/AlexandrSakulin)
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:sakulinalexandr0@gmail.com)
+
